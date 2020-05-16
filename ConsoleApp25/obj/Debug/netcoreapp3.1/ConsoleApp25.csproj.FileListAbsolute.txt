@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.exe
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.deps.json
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\User\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.pdb
